@@ -65,6 +65,8 @@ obtenerArchivo(argv.b, argv.l, argv.h)
 //Cuando queremos instalar una version concreta debemos poner npm install colors@1.0.0
 //El comando de "npm update" nos permite realizar el control de versiones
 //Para updatear y reconstruir todos los modulos una vez iniciamos el poryecto debemos clicar en "npm install"
+//Si borramos una carpeta accidentalmente podemos hacer "git checkout --." y va a generar todos los directorios
+//VIEW ---> COMMAND PALETTE ----> MARKDOWN OPEN PREVIEW
 
 
 
